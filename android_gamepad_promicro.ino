@@ -1,5 +1,5 @@
   /*
- * wolfshow's usb_gamepad v1.0
+ * wolfshow's usb_gamepad for sparkfun pro micro v1.0
  * 
  */
 
