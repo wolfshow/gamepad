@@ -1,5 +1,5 @@
 # Gamepad
-USB-HID gamepad based on Arduino Joystick Library for ATmega32U4 Microcontrollers
+USB-HID gamepad based on Arduino Joystick Library (https://github.com/MHeironimus/ArduinoJoystickLibrary) for ATmega32U4 Microcontrollers
 
 Platform: Windows, Android
 
