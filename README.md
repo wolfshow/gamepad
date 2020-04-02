@@ -1,7 +1,7 @@
 # Gamepad
 USB-HID gamepad based on Arduino Joystick Library for ATmega32U4 Microcontrollers
 
-# Pinout for Arduino Micro
+# Pinout for Arduino Leonado/Micro
 
 button_A 0
 
