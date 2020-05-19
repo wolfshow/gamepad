@@ -1,6 +1,8 @@
 # Gamepad
 USB-HID gamepad based on Arduino Joystick Library (https://github.com/MHeironimus/ArduinoJoystickLibrary) for ATmega32U4 Microcontrollers
 
+Bluetooth gamepad based on Bluetooth LE Gamepad library (https://github.com/lemmingDev/ESP32-BLE-Gamepad) for the ESP32
+
 Platform: Windows, Linux, Android, Raspberry Pi
 
 # Pinout for Arduino Leonado/Micro
