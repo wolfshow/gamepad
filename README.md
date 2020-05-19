@@ -83,3 +83,45 @@ left_analog_stick_y A0
 right_analog_stick_x A3
 
 right_analog_stick_y A2
+
+# Pinout for ESP32 Bluetooth
+
+button_A 26
+
+button_B 27
+
+button_C (L3) 4
+
+button_X 5
+
+button_Y 12
+
+button_Z (R3) 13
+
+button_L1 14
+
+button_R1 15
+
+button_L2 16
+
+button_R2 17
+
+button_SELECT 18
+
+button_START 19
+
+button_UP 21
+
+button_LEFT 22
+
+button_DOWN 23
+
+button_RIGHT 25
+
+left_analog_stick_x 32
+
+left_analog_stick_y 33
+
+right_analog_stick_x 34
+
+right_analog_stick_y 35
